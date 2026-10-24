@@ -1,0 +1,14 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local editor and secrets
+.vscode/
+.env
+*.log
+
+# Locally generated applicant/history records (do not publish)
+loan_applications.csv
+applicant_history.csv
